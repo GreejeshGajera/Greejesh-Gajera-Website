@@ -1268,6 +1268,23 @@ section,
   height: 48px;
 }
 
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Make the video responsive */
+.swiper-slide video {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.swiper-slide img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .portfolio-details .swiper-button-prev:after,
 .portfolio-details .swiper-button-next:after {
   color: rgba(255, 255, 255, 0.8);
