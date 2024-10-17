@@ -1336,6 +1336,22 @@ section,
   position: relative;
 }
 
+.portfolio-details .portfolio-info p {
+  font-size: 18px;
+  font-weight: 400;
+  /* color: var(--heading-color); */
+  color: color-mix(in srgb, var(--heading-color), transparent 20%);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.portfolio-details .portfolio-info p strong {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--heading-color);
+}
+
 .portfolio-details .portfolio-info h3:after {
   content: "";
   position: absolute;
