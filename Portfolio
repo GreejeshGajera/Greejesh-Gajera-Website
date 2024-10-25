@@ -19,6 +19,30 @@ platform : android,ios
 
 
 ---------------------------
+Chouple Game
+---------------------------
+ <p>
+    <strong>Chouple Game</strong> is a strategic resource management game that challenges players to build and expand their empire across five exciting levels. Each level sets new targets, including collecting wood, stone, people, and gold, which are essential to build and grow your military forces.
+  </p>
+
+  <p>
+    The game includes various elements like wood mills, stone mines, gold mines, and army bases. Players must strategically gather resources to upgrade their empire and build armies to strengthen their defenses and prepare for battles.
+  </p>
+
+  <p>
+    Players can launch attacks on enemies to conquer and win coins, which further help them to expand their resources and achieve new milestones. With each victory, they can build a stronger empire, unlocking new gameplay elements as they progress.
+  </p>
+
+  <p>
+    Developed using Unity for its dynamic mechanics, <strong>Chouple Game</strong> incorporates stunning graphics created with Photoshop and vector-based illustrations designed in Illustrator. In-app purchases enhance the gameplay experience, while notifications, Firebase, and AWS services provide smooth and connected gameplay for players.
+  </p>
+
+category  : casino
+platform : android,ios,web
+Game play : https://bytecode09.github.io/Our_Games_Web_Build/Choupal-Game/
+
+
+---------------------------
 Rummy Joy
 ---------------------------
 
@@ -188,21 +212,6 @@ Draw Bridge
 category  : puzzle
 platform : android,ios,web
 Game play : https://bytecode09.github.io/Our_Games_Web_Build/Draw_Bridge
-
----------------------------
-Dress app
----------------------------
-
-<p>Welcome to <strong>Dress Up</strong>, a fun and engaging game that allows players to choose from over six diverse characters to customize and style. With an extensive selection of clothing options, fashion accessories, rings, heels, and makeup, players can create stunning looks and express their creativity. The game invites players to let their imaginations run wild as they mix and match outfits, showcasing their unique fashion sense.</p>
-
-<p>A key feature of <strong>Dress Up</strong> is its competitive rating system, where players receive feedback on their styling choices from the moon wake. This adds an exciting layer of competition, encouraging players to refine their fashion skills and create even more impressive outfits. The game fosters creative expression, allowing players to explore different styles and trends while having fun.</p>
-
-<p>Developed using <strong>Unity</strong>, <strong>Dress Up</strong> offers an immersive experience with captivating visuals designed in <strong>Photoshop</strong>. Players are kept engaged with notifications that inform them about new outfits, styles, and events. Additionally, the game incorporates <strong>Firebase</strong> integration to manage user data and track game progress seamlessly, enhancing the overall gameplay experience.</p>
-
-
-category  : simulator
-platform : android,ios,web
-Game play : https://bytecode09.github.io/Our_Games_Web_Build/Dress_Up
 
 ---------------------------
 Dress Up
