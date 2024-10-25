@@ -21,21 +21,21 @@ platform : android,ios
 ---------------------------
 Chouple Game
 ---------------------------
- <p>
-    <strong>Chouple Game</strong> is a strategic resource management game that challenges players to build and expand their empire across five exciting levels. Each level sets new targets, including collecting wood, stone, people, and gold, which are essential to build and grow your military forces.
-  </p>
+<p>
+<strong>Chouple Game</strong> is a strategic resource management game that challenges players to build and expand their empire across five exciting levels. Each level sets new targets, including collecting wood, stone, people, and gold, which are essential to build and grow your military forces.
+</p>
 
-  <p>
-    The game includes various elements like wood mills, stone mines, gold mines, and army bases. Players must strategically gather resources to upgrade their empire and build armies to strengthen their defenses and prepare for battles.
-  </p>
+<p>
+The game includes various elements like wood mills, stone mines, gold mines, and army bases. Players must strategically gather resources to upgrade their empire and build armies to strengthen their defenses and prepare for battles.
+</p>
 
-  <p>
-    Players can launch attacks on enemies to conquer and win coins, which further help them to expand their resources and achieve new milestones. With each victory, they can build a stronger empire, unlocking new gameplay elements as they progress.
-  </p>
+<p>
+Players can launch attacks on enemies to conquer and win coins, which further help them to expand their resources and achieve new milestones. With each victory, they can build a stronger empire, unlocking new gameplay elements as they progress.
+</p>
 
-  <p>
-    Developed using Unity for its dynamic mechanics, <strong>Chouple Game</strong> incorporates stunning graphics created with Photoshop and vector-based illustrations designed in Illustrator. In-app purchases enhance the gameplay experience, while notifications, Firebase, and AWS services provide smooth and connected gameplay for players.
-  </p>
+<p>
+Developed using Unity for its dynamic mechanics, <strong>Chouple Game</strong> incorporates stunning graphics created with Photoshop and vector-based illustrations designed in Illustrator. In-app purchases enhance the gameplay experience, while notifications, Firebase, and AWS services provide smooth and connected gameplay for players.
+</p>
 
 category  : casino
 platform : android,ios,web
