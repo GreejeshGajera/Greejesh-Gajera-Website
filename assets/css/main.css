@@ -166,7 +166,8 @@ h6 {
 
 .navmenu a,
 .navmenu a:focus {
-  color: var(--nav-color);
+  /* color: var(--nav-color); */
+  color: #aaaaaa;
   font-family: var(--nav-font);
   display: flex;
   align-items: center;
@@ -174,7 +175,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: color-mix(in srgb, var(--default-color), transparent 92%);
+  background: color-mix(in srgb, var(--nav-hover-color), transparent 75%);
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -488,7 +489,7 @@ section,
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 30%);
+  background: color-mix(in srgb, var(--default-color), transparent 40%);
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -503,11 +504,14 @@ section,
   margin: 0;
   font-size: 64px;
   font-weight: 700;
+  color: var(--background-color);
+  /* color: var(--accent-color); */
 }
 
 .hero p {
   margin: 5px 0 0 0;
   font-size: 26px;
+  color: var(--background-color);
 }
 
 .hero p span {
@@ -522,7 +526,7 @@ section,
 .hero .social-links a {
   font-size: 20px;
   display: inline-block;
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, var(--background-color), transparent 20%);
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
