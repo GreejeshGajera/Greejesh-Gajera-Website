@@ -167,7 +167,7 @@ h6 {
 .navmenu a,
 .navmenu a:focus {
   /* color: var(--nav-color); */
-  color: #aaaaaa;
+  color: #45505b;
   font-family: var(--nav-font);
   display: flex;
   align-items: center;
@@ -175,7 +175,7 @@ h6 {
   margin-bottom: 8px;
   font-size: 15px;
   border-radius: 50px;
-  background: color-mix(in srgb, var(--nav-hover-color), transparent 75%);
+  background: color-mix(in srgb, var(--header-background-color), transparent 75%);
   height: 56px;
   width: 100%;
   overflow: hidden;
