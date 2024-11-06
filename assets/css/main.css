@@ -838,6 +838,8 @@ section,
   padding: 15px;
 }
 
+
+
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
   font-weight: 600;
@@ -1382,6 +1384,11 @@ section,
   display: flex;
   flex-direction: column;
   padding-bottom: 15px;
+}
+
+.portfolio-details .portfolio-info ul li a i {
+  font-size: 25px;
+  padding-right: 10px;
 }
 
 .portfolio-details .portfolio-info ul strong {
